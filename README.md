@@ -7,9 +7,9 @@
 |URL              |[18.207.120.2.xip.io](http://18.207.120.2.xip.io)|
 
 ## Packages installed
-..* PostgreSQL
-..* Psycopg2
-..* Redis
-..* Flask
-..* Flask-httpauth
-..* Sqlalchemy
+  * PostgreSQL
+  * Psycopg2
+  * Redis
+  * Flask
+  * Flask-httpauth
+  * Sqlalchemy
