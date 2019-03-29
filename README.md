@@ -16,3 +16,8 @@ Clone the repository Cloting-Catalog from [here](https://github.com/shivasupraj/
   * Flask
   * Flask-httpauth
   * Sqlalchemy
+  
+## Useful resources
+  * StackOverflow posts
+  * GitHub repos
+  * Udacity forum
